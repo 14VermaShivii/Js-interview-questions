@@ -1,3 +1,4 @@
+// question=3
 // program to check if the string is palindrome or not
 
 function checkPalindrome(string) {
