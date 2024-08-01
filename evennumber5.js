@@ -9,4 +9,4 @@ const returnEvenArray = (arr) => {
 console.log(returnEvenArray(arr));
 
 // output
-[ 6, 8, 4, 2, 66 ]
+// [ 6, 8, 4, 2, 66 ]   `
